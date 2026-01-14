@@ -1,0 +1,23 @@
+body{
+    background-color: lightpink;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 10px;
+}
+
+#b{
+    padding: 10px;
+    color: lightblue;
+    background-color: black;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+#inp{
+    padding: 10px;
+    color: yellow;
+    background-color: black;
+    border-radius: 30px;
+    margin: 10px;
+}
